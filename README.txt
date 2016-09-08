@@ -1,4 +1,4 @@
-Guillaume Lajoie January 2014 (http://faculty.washington.edu/glajoie/wordpress/)
+Guillaume Lajoie September 2016 (http://faculty.washington.edu/glajoie/wordpress/)
 
 DISCLAIMER: This software was design for specialized scientific computation only and is not meant as a deployable product. Some parameter settings may lead to errors.
 
